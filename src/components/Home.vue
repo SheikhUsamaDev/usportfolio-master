@@ -35,7 +35,7 @@
 				<h1
 					class="text-lg sm:text-xl text-blue-400 leading-3 tracking-widest"
 				>
-					Full Stack developer
+					Frontend developer
 				</h1>
 				<h2 class="text-3xl sm:text-4xl text-blue-700 tracking-tight py-1">
 					Hey, I am Usama Saeed

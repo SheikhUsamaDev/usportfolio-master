@@ -10,7 +10,7 @@
 				Oops, seems like this skill wasn't added to a project. You can check my
 				github for this skill
 				<a class="text-blue-600 underline" target="_blank" :href="
-	`https://github.com/AUAboi?tab=repositories&q=&type=&language=${skill.toLowerCase()}`
+	`https://github.com/SheikhUsamaDev?tab=repositories&q=&type=&language=${skill.toLowerCase()}`
 					">Link</a>
 			</p>
 		</div>

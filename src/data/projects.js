@@ -1,12 +1,42 @@
 const projects = [
   {
+    title: "Morpheus.ai",
+    intro: "Webapp to like chatgpt  and to create images ",
+    details:
+      "Webapp that I built for a client like chatgpt, user can create a image useing this website. I used ReactJs for the whole thing. SASS was used for styling.",
+    skills: ["ReactJs", "nodejs", "SASS"],
+    img: ["morphius.ai.png"],
+
+    link: "https://app.themorpheus.ai/login",
+  },
+  {
+    title: "TockBackUp",
+    intro: "Webapp to download all tiktok, insta, youtube , videos reals and shorts ",
+    details:
+      "Webapp that I built for a client to download all tiktok, insta, youtube , videos reals and shorts on one click . I used ReactJs for the whole thing. SASS was used for styling.",
+    skills: ["ReactJs", "nodejs", "SASS"],
+    img: ["tok.png"],
+
+    link: "https://www.tokbackup.com/",
+  },
+  {
+    title: "TokComment",
+    intro: "Webapp to Create custom comments for your TikTok videos in Seconds.",
+    details:
+      "Webapp that I built for a client to Create custom comments for your TikTok videos in Seconds on one click . I used ReactJs for the whole thing. SASS was used for styling.",
+    skills: ["ReactJs", "nodejs", "SASS"],
+    img: ["comment.png"],
+
+    link: "https://www.tokcomment.com/",
+  },
+  {
     title: "Admin Dashboard",
     intro: "Webapp to manage sales etc of a retail store",
     details:
       "Webapp that I built for a client to manage sales, inventory and payments for a store. I used ReactJs for the whole thing. Tailwindcss was used for styling. This app was for internal use only so no public url",
     skills: ["ReactJs", "mysql", "bootstrap"],
     img: ["inventoryimg.webp"],
-  
+
     link: "https://react-admin-dashboard-qwers.netlify.app/",
   },
   {
@@ -14,11 +44,11 @@ const projects = [
     intro: "Webapp to manage many Service in Dubai",
     details:
       "Website for managing Many Services . I used ReactJs for the whole thing.css was used for styling.I used NodeJs for backend.",
-    skills: ["ReactJs", "Nodejs", "Mongodb",  "bootstrap"],
+    skills: ["ReactJs", "Nodejs", "Mongodb", "bootstrap"],
     img: ["profixing.png"],
     link: "https://profixingdubai.com/",
   },
-  
+
   {
     title: "Modern Cafe Website",
     intro: "A small cafe website I built for a client",
@@ -37,7 +67,7 @@ const projects = [
     img: ["kg.webp", "kg2.webp", "kg4.webp", "kg3.webp"],
     link: "https://kghype.com/",
   },
- 
+
   {
     title: "Quiz Site",
     intro: "Demo for quiz app",
@@ -47,7 +77,7 @@ const projects = [
     img: ["quizimg.webp"],
     github: "https://github.com/SheikhUsamaDev",
   },
- 
+
   {
     title: "Portfolio Site",
     intro: "A portfolio site a made a while ago",
@@ -57,39 +87,39 @@ const projects = [
     github: "https://github.com/SheikhUsamaDev",
     img: ["portfolioimg.webp"],
   },
-  {
-    title: "AA Threads Website",
-    intro: "Site and landing page for AA Threads",
-    details:
-      "UI for the site was done with elementor as wordpress was the clients preferred cms. Site is mostly a landing page with links and contact for clients business",
-    skills: ["wordpress", "elementor", "cms"],
-    link: "https://cafe-modern.000webhostapp.com/cafe-master/dist/index.php",
-    github: "https://github.com/SheikhUsamaDev",
-    img: ["aathreadsimg.webp"],
-  },
-  {
-    title: "Fashion Studio",
-    intro:
-      "An e-commerce store built on woocommerce for a clothing retail store",
-    details:
-      "A freelance project I did for a local clothing store. Website was built on woocommerce wordpress as per client's request. It includes all the bells and whistles of a e-commerce store.",
-    skills: ["wordpress", "php"],
-    img: [
-      "fashionstudioimg.webp",
-      "fashionstudioimg2.webp",
-      "fashionstudioimg3.webp",
-    ],
-    link: "https://fashionstudiopk.com/",
-  },
-  {
-    title: "This Site",
-    intro: "Portfolio site fully custom made",
-    details: "Portfolio made with node and express backend with vueJS frontend",
-    skills: ["vuejs", "nodejs", "expressjs", "mongodb", "tailwindcss"],
-    link: "",
-    github: "https://github.com/SheikhUsamaDev",
-    img: ["this.webp"],
-  },
+  // {
+  //   title: "AA Threads Website",
+  //   intro: "Site and landing page for AA Threads",
+  //   details:
+  //     "UI for the site was done with elementor as wordpress was the clients preferred cms. Site is mostly a landing page with links and contact for clients business",
+  //   skills: ["wordpress", "elementor", "cms"],
+  //   link: "https://cafe-modern.000webhostapp.com/cafe-master/dist/index.php",
+  //   github: "https://github.com/SheikhUsamaDev",
+  //   img: ["aathreadsimg.webp"],
+  // },
+  // {
+  //   title: "Fashion Studio",
+  //   intro:
+  //     "An e-commerce store built on woocommerce for a clothing retail store",
+  //   details:
+  //     "A freelance project I did for a local clothing store. Website was built on woocommerce wordpress as per client's request. It includes all the bells and whistles of a e-commerce store.",
+  //   skills: ["wordpress", "php"],
+  //   img: [
+  //     "fashionstudioimg.webp",
+  //     "fashionstudioimg2.webp",
+  //     "fashionstudioimg3.webp",
+  //   ],
+  //   link: "https://fashionstudiopk.com/",
+  // },
+  // {
+  //   title: "This Site",
+  //   intro: "Portfolio site fully custom made",
+  //   details: "Portfolio made with node and express backend with vueJS frontend",
+  //   skills: ["vuejs", "nodejs", "expressjs", "mongodb", "tailwindcss"],
+  //   link: "",
+  //   github: "https://github.com/SheikhUsamaDev",
+  //   img: ["this.webp"],
+  // },
 ];
 
 export default projects;

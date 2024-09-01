@@ -114,9 +114,8 @@ export default {
 			},
 			projects: [],
 			skills: [],
-
 			currentSkill: "",
-			toggleTypes: ["all", "frontend", "backend"],
+			toggleTypes: [ "all", ],
 			currentToggleType: "all"
 		};
 	},

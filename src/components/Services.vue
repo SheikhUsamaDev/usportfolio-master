@@ -32,7 +32,7 @@
 						>
 					</div>
 				</div>
-				<div class="p-2 sm:w-1/2 w-full">
+				<!-- <div class="p-2 sm:w-1/2 w-full">
 					<div class="bg-gray-800 rounded flex p-4 h-full items-center">
 						<svg
 							fill="none"
@@ -50,8 +50,8 @@
 							>Backend Web-development</span
 						>
 					</div>
-				</div>
-				<div class="p-2 sm:w-1/2 w-full">
+				</div> -->
+				<!-- <div class="p-2 sm:w-1/2 w-full">
 					<div class="bg-gray-800 rounded flex p-4 h-full items-center">
 						<svg
 							fill="none"
@@ -69,7 +69,7 @@
 							>Fullstack Web-Applications</span
 						>
 					</div>
-				</div>
+				</div> -->
 				<div class="p-2 sm:w-1/2 w-full">
 					<div class="bg-gray-800 rounded flex p-4 h-full items-center">
 						<svg
@@ -106,7 +106,7 @@
 						<span class="title-font font-medium text-white">Web Design</span>
 					</div>
 				</div>
-				<div class="p-2 sm:w-1/2 w-full">
+				<!-- <div class="p-2 sm:w-1/2 w-full">
 					<div class="bg-gray-800 rounded flex p-4 h-full items-center">
 						<svg
 							fill="none"
@@ -122,7 +122,7 @@
 						</svg>
 						<span class="title-font font-medium text-white">Wordpress</span>
 					</div>
-				</div>
+				</div> -->
 				<div class="p-2 sm:w-1/2 w-full">
 					<div class="bg-gray-800 rounded flex p-4 h-full items-center">
 						<svg

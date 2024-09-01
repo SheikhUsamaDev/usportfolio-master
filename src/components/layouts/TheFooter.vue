@@ -7,7 +7,7 @@
 			<p class="text-sm text-gray-400 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-800 sm:py-2 sm:mt-0 mt-4">
 				© 2021 Usama Saeed —
 				<a href="https://twitter.com/us7463639" class="text-gray-500 ml-1" target="_blank"
-					rel="noopener noreferrer">@us7463639</a>
+					rel="noopener noreferrer">@usamasaeed4381</a>
 			</p>
 			<span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
 				<a target="_blank" href="https://www.facebook.com/profile.php?id=100004709029243" class="text-gray-400 hover:text-blue-500">

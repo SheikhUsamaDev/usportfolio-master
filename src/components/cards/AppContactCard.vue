@@ -7,7 +7,7 @@
 				Located at:
 			</h2>
 			<p class="mt-1 text-white">
-				Faisalabad, Pakistan.
+				Lahore, Pakistan.
 			</p>
 			<h2
 				class="title-font text-white font-semibold tracking-widest text-xs mt-4"
@@ -27,9 +27,9 @@
 				EMAIL
 			</h2>
 			<a
-				href="mailto:us7463639@gmail.com"
+				href="mailto:usamasaeed4381@gmail.com"
 				class="text-white leading-relaxed "
-				>us7463639@gmail.com</a
+				>usamasaeed4381@gmail.com</a
 			>
 			<h2
 				class="title-font font-semibold text-white tracking-widest text-xs mt-4"
